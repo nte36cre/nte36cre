@@ -11,7 +11,7 @@
 - **Aluno:**  
   [Primeiro acesso aluno](http://tuaescola.rs.gov.br/primeiro-acesso-estudante)
 
----
+--- 
 
 # 🛠 **Ferramentas**
 
@@ -58,3 +58,6 @@ Manual para instalação e configuração do **FortiClient**.
 
 ### 📱 **Manual_Medidor**  
 Manual para instalação e configuração do **Medidor Educação Conectada**.
+
+# Mais informações
+https://drive.google.com/drive/folders/1QtCKqfcsN6KaciexlX-bvnorJyuYx8gX?usp=drive_link
