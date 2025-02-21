@@ -1,16 +1,54 @@
-## Hi there 👋
+# 
 
-<!--
-**nte36cre/nte36cre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## E-mail @educar
+### Recuperação de senha professor / professor:
+#### https://recuperador-de-conta-rs.vercel.app/ 
 
-Here are some ideas to get you started:
+### Primeiro acesso professor / servidor:
+#### http://tuaescola.rs.gov.br/primeiro-acesso-professor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Primeiro acesso aluno:
+#### http://tuaescola.rs.gov.br/primeiro-acesso-estudante
+
+
+## Ferramentas
+### AnyDesk
+#### https://anydesk.com/pt/downloads/windows
+Programa que permite acessar remotamente o computador no qual necessita suporte.
+
+### MedidorEducacaoConectada
+Aplicativo Medidor Educação Conectada.
+
+### Divisor_XLSX
+Aplicativo para dividir tabelas em mais de um arquivo.
+
+### AcrobatReader
+Aplicativo para ler arquivos PDF.
+
+
+## RHE
+### FortiClient_Windows_64bits
+Cliente VPN para acesso à REDERS. Deve ser feita a conexão antes de abrir o sistema RHE.
+
+### JRE_8u431_x64
+Instala a camada Java, necessária para executar o aplicativo RHE.
+
+### Sistema_RHE
+Aplicativo RHE.
+
+
+## Manuais
+### Acesso_Gestor_Classroom
+Manual para acesso ao Classroom com a conta gestora.
+
+### Assistência_Carrinhos_e_Chromebooks
+Manual para abertura de chamado referente a problemas com Carrinhos e Chromebooks.
+
+### Manual_FortiClient
+Manual para instalação e configuração do FortiClient.
+
+### Manual_Medidor
+Manual para instalação e configuração do Medidor Educação Conectada.
+
+
+
