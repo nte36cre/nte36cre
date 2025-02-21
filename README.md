@@ -1,11 +1,11 @@
 # 
 
 ## E-mail @educar
-### Recuperação de senha professor / professor:
-#### https://recuperador-de-conta-rs.vercel.app/ 
+Recuperação de senha professor / professor: 
+https://recuperador-de-conta-rs.vercel.app/
 
 ### Primeiro acesso professor / servidor:
-#### http://tuaescola.rs.gov.br/primeiro-acesso-professor
+#### http://tuaescola.rs.gov.br/primeiro-acesso-professo
 
 ### Primeiro acesso aluno:
 #### http://tuaescola.rs.gov.br/primeiro-acesso-estudante
